@@ -9,14 +9,14 @@
 
 ## Steps taken
 
-Step 1 - Data loading
-Step 2 - Data inspection
-Step 3 - Data cleaning
-Step 4 - Features selection
-Step 5 - Data pre-preprocessing
-Step 6 - Model development
-Step 7 - Model evaluation
-Step 8 - Model saving
+### Step 1 - Data loading  
+### Step 2 - Data inspection  
+### Step 3 - Data cleaning  
+### Step 4 - Features selection  
+### Step 5 - Data pre-preprocessing  
+### Step 6 - Model development  
+### Step 7 - Model evaluation  
+### Step 8 - Model saving  
 
 ## Visualization
 <p align="center">
